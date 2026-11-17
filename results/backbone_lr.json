@@ -1,0 +1,5 @@
+{
+  "deit_small": "1e-3",
+  "dinov2_small": "1e-3",
+  "clip_b32": "1e-3"
+}

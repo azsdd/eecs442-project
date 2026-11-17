@@ -1,0 +1,87 @@
+cid,action,final_bin,note
+R001,exclude,,small purple wrapper/box; material unclear
+R062,exclude,,white sheet with ragged edge; napkin vs paper unclear
+R064,exclude,,shiny gold strip; metallic wrap?
+R091,exclude,,stained white paper; possibly food-soiled
+R095,exclude,,thermal receipt; acceptance not determinable
+R135,exclude,,insecticide aerosol (hazardous)
+R137,exclude,,aerosol can; campus rule unverified
+R138,exclude,,aerosol can; campus rule unverified
+R141,exclude,,used aluminium foil
+R144,exclude,,used aluminium foil
+R146,exclude,,used aluminium foil
+R148,exclude,,used aluminium foil
+R149,exclude,,used aluminium foil with food
+R150,exclude,,used aluminium foil
+R152,exclude,,used aluminium foil
+R153,exclude,,used aluminium foil
+R154,exclude,,used aluminium foil
+R155,exclude,,used aluminium foil
+R156,exclude,,used aluminium foil
+R157,exclude,,used aluminium foil
+R158,exclude,,foil tray with food residue
+R159,exclude,,used aluminium foil
+R161,exclude,,rusty scrap object; not a bin item
+R163,exclude,,used aluminium foil
+R164,exclude,,aerosol can
+R165,exclude,,crumpled foil tray
+R166,exclude,,used aluminium foil
+R167,exclude,,used aluminium foil
+R169,exclude,,metal clamp/tool; scrap
+R170,exclude,,Pringles composite can
+R171,exclude,,aerosol can
+R173,exclude,,small unclear container
+R174,exclude,,small unclear metal part
+R176,exclude,,insecticide aerosol (hazardous)
+R177,exclude,,aerosol can
+R182,exclude,,small plastic fragment
+R183,relabel,landfill,foil/plastic sachet (flexible packaging)
+R184,relabel,landfill,plastic wrapper
+R186,exclude,,black meat tray wrapped in cling film
+R187,exclude,,black meat tray wrapped in cling film
+R188,exclude,,black fragment; unclear
+R189,exclude,,meat tray wrapped in cling film
+R191,exclude,,small cap
+R194,relabel,landfill,chip packet (film)
+R195,exclude,,small cap
+R197,relabel,landfill,foam block
+R201,exclude,,crushed white item; foam vs cup unclear
+R202,relabel,landfill,plastic bag
+R208,exclude,,squeeze tube
+R209,relabel,landfill,foam piece
+R210,relabel,landfill,foam piece
+R212,relabel,landfill,plastic film bag
+R213,relabel,landfill,plastic film packaging
+R220,relabel,landfill,bubble wrap
+R221,relabel,landfill,plastic bread bag
+R223,relabel,landfill,plastic film
+R235,relabel,landfill,plastic film
+R248,relabel,landfill,plastic bag
+R249,relabel,landfill,plastic bag
+R250,relabel,landfill,plastic bag
+R251,relabel,landfill,plastic bag/wrapper
+R252,relabel,landfill,biscuit packet (film)
+R262,exclude,,small white tray; foam vs rigid unclear
+R267,relabel,landfill,muesli bar wrapper
+R268,relabel,landfill,plastic film bag
+R269,relabel,landfill,biscuit packet (film)
+R346,exclude,,orange crumpled item; could be orange peel
+R347,exclude,,wooden fork; compostability not determinable
+R361,exclude,,painted wood board (construction)
+R365,exclude,,string lights (e-waste)
+R379,exclude,,stone/unclear object
+R396,exclude,,brick (construction)
+R397,exclude,,nail polish (hazardous)
+R403,exclude,,hardcover notebook; mixed materials
+R404,exclude,,hardcover notebook; mixed materials
+R406,exclude,,sewing needles (sharps)
+R409,exclude,,wood plank (construction)
+R410,exclude,,soil clod; unclear
+R411,exclude,,brick (construction)
+R416,exclude,,lamp fixture (e-waste)
+R419,exclude,,mossy plaster/foam fragment; unclear
+R479,exclude,,dirty white sheet; paper towel vs cloth unclear
+R504,exclude,,produce wrapped in plastic film
+R643,exclude,,pile of soil; not a disposable item
+R644,exclude,,pile of soil; not a disposable item
+R646,exclude,,pile of soil; not a disposable item

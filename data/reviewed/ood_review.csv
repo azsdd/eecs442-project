@@ -1,0 +1,57 @@
+cid,action,final_bin,note
+O004,exclude,,fruit growing on tree
+O005,exclude,,market pile of fruit
+O013,exclude,,market pile of zucchini
+O018,exclude,,berries on plant
+O022,exclude,,jackfruit plus plated pieces; two items
+O024,exclude,,orchard ground with many apples
+O030,exclude,,pile of apples
+O031,exclude,,still life of produce
+O033,exclude,,arranged dried items; unclear
+O034,exclude,,TV screenshot with overlay text
+O036,exclude,,market pile of squash
+O037,exclude,,tomatoes growing on vine
+O038,exclude,,tomatoes growing on vine
+O040,exclude,,art composition (vegetables on toy couch)
+O043,exclude,,hand picking tomatoes from plant
+O044,exclude,,product shot of asparagus bunch
+O045,exclude,,kitchen arrangement of jars
+O046,exclude,,market assortment of produce
+O050,exclude,,dark sheet; material unclear
+O054,exclude,,shelf built from many boxes
+O061,exclude,,3D render of a box
+O068,exclude,,paper with metallic coating; unclear
+O080,relabel,landfill,Oreo film wrapper
+O081,exclude,,set of six plastic bags
+O083,relabel,landfill,plastic bag
+O084,relabel,landfill,plastic grocery bag
+O085,exclude,,two reusable SodaStream bottles
+O086,exclude,,row of many bottles
+O087,exclude,,container with unclear contents
+O096,exclude,,used aluminium foil
+O097,exclude,,used aluminium foil
+O099,exclude,,3D render of a can
+O101,exclude,,decorative metal letter; not a bin item
+O102,exclude,,reusable steel tumblers; product set
+O104,exclude,,set of many tins
+O109,exclude,,set of six dropper bottles
+O111,exclude,,mockup of three bottles
+O114,exclude,,three bottles
+O127,exclude,,frosted bottle; glass vs plastic unclear
+O130,exclude,,crumpled brown paper; towel vs bag unclear
+O135,exclude,,stack of many masks
+O137,relabel,compost,apple core
+O138,exclude,,box of masks (product)
+O139,exclude,,packaged masks (product)
+O148,exclude,,many electric toothbrush heads
+O149,exclude,,white textured tile; unclear
+O150,exclude,,electric toothbrush (e-waste)
+O151,exclude,,stack of diapers
+O174,exclude,,packaged lettuce (plastic wrapped product)
+O175,exclude,,hand holding figs
+O179,exclude,,hand holding fruit; watermark
+O181,exclude,,basket of many citrus
+O182,exclude,,bakery shelves
+O188,exclude,,bunch of herbs (product)
+O192,exclude,,brussels sprouts stalk (product)
+O193,exclude,,still life of basil and tomato

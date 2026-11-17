@@ -1,0 +1,147 @@
+{
+  "name": "linear_none_f0.25_s0",
+  "config": {
+    "model": "linear",
+    "aug": "none",
+    "frac": 0.25,
+    "seed": 0,
+    "epochs": 40,
+    "bs": 32,
+    "lr_head": 0.01,
+    "lr_block": 0.0001,
+    "wd": 0.05,
+    "label_smoothing": 0.0,
+    "rot_deg": 45.0,
+    "brightness": 0.4,
+    "name": "linear_none_f0.25_s0",
+    "verbose": false
+  },
+  "device": "cuda",
+  "n_trainable_params": 579,
+  "n_train": 115,
+  "n_val": 99,
+  "n_test": 100,
+  "n_ood_test": 142,
+  "best_epoch": 2,
+  "epochs": 40,
+  "train_time_s": 6.693130600004224,
+  "train_time_per_epoch_s": 0.1673282650001056,
+  "preload_time_s": 1.7656438000121852,
+  "gpu_name": "NVIDIA GeForce RTX 4090",
+  "val": {
+    "accuracy": 0.8484848484848485,
+    "macro_f1": 0.8473748473748474,
+    "per_class_recall": {
+      "recycling": 0.967741935483871,
+      "compost": 0.8823529411764706,
+      "landfill": 0.7058823529411765
+    },
+    "per_class_precision": {
+      "recycling": 0.7692307692307693,
+      "compost": 0.967741935483871,
+      "landfill": 0.8275862068965517
+    },
+    "per_class_f1": {
+      "recycling": 0.8571428571428571,
+      "compost": 0.9230769230769231,
+      "landfill": 0.7619047619047619
+    },
+    "confusion_matrix": [
+      [
+        30,
+        0,
+        1
+      ],
+      [
+        0,
+        30,
+        4
+      ],
+      [
+        9,
+        1,
+        24
+      ]
+    ],
+    "n": 99
+  },
+  "test": {
+    "accuracy": 0.76,
+    "macro_f1": 0.7574716994736462,
+    "per_class_recall": {
+      "recycling": 0.9032258064516129,
+      "compost": 0.8,
+      "landfill": 0.5882352941176471
+    },
+    "per_class_precision": {
+      "recycling": 0.7368421052631579,
+      "compost": 0.875,
+      "landfill": 0.6666666666666666
+    },
+    "per_class_f1": {
+      "recycling": 0.8115942028985508,
+      "compost": 0.835820895522388,
+      "landfill": 0.625
+    },
+    "confusion_matrix": [
+      [
+        28,
+        0,
+        3
+      ],
+      [
+        0,
+        28,
+        7
+      ],
+      [
+        10,
+        4,
+        20
+      ]
+    ],
+    "n": 100
+  },
+  "ood_test": {
+    "accuracy": 0.6690140845070423,
+    "macro_f1": 0.6673361522198732,
+    "per_class_recall": {
+      "recycling": 0.9024390243902439,
+      "compost": 0.8604651162790697,
+      "landfill": 0.3620689655172414
+    },
+    "per_class_precision": {
+      "recycling": 0.5362318840579711,
+      "compost": 0.8222222222222222,
+      "landfill": 0.75
+    },
+    "per_class_f1": {
+      "recycling": 0.6727272727272727,
+      "compost": 0.8409090909090909,
+      "landfill": 0.4883720930232558
+    },
+    "confusion_matrix": [
+      [
+        37,
+        0,
+        4
+      ],
+      [
+        3,
+        37,
+        3
+      ],
+      [
+        29,
+        8,
+        21
+      ]
+    ],
+    "n": 142
+  },
+  "inference": {
+    "gpu_batch64_ms_per_img": 0.20279624998238432,
+    "cpu_single_ms_per_img": 15.1732099999208,
+    "cpu_threads": 14
+  }
+}

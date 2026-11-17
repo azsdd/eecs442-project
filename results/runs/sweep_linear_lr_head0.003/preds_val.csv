@@ -1,0 +1,100 @@
+cid,orig_class,true,pred,p_recycling,p_compost,p_landfill
+R003,Cardboard,recycling,recycling,0.8778,0.0025,0.1196
+R007,Cardboard,recycling,recycling,0.8247,0.0034,0.1718
+R008,Cardboard,recycling,landfill,0.1121,0.0027,0.8852
+R013,Cardboard,recycling,recycling,0.9224,0.0371,0.0405
+R015,Cardboard,recycling,recycling,0.7915,0.0035,0.2050
+R024,Cardboard,recycling,recycling,0.9801,0.0010,0.0189
+R025,Cardboard,recycling,recycling,0.9811,0.0021,0.0168
+R031,Cardboard,recycling,recycling,0.7473,0.0013,0.2514
+R032,Cardboard,recycling,recycling,0.8311,0.0002,0.1687
+R043,Cardboard,recycling,recycling,0.9950,0.0000,0.0050
+R049,Cardboard,recycling,recycling,0.9789,0.0000,0.0211
+R050,Cardboard,recycling,recycling,0.9657,0.0008,0.0335
+R057,Cardboard,recycling,recycling,0.8720,0.0011,0.1269
+R068,Paper,recycling,recycling,0.9510,0.0002,0.0489
+R069,Paper,recycling,recycling,0.9649,0.0096,0.0255
+R070,Paper,recycling,recycling,0.9401,0.0055,0.0544
+R072,Paper,recycling,recycling,0.8340,0.0083,0.1577
+R080,Paper,recycling,landfill,0.3022,0.0016,0.6962
+R089,Paper,recycling,recycling,0.8208,0.0000,0.1792
+R090,Paper,recycling,recycling,0.5599,0.0003,0.4397
+R094,Paper,recycling,recycling,0.9347,0.0018,0.0635
+R098,Paper,recycling,recycling,0.8516,0.0103,0.1381
+R102,Paper,recycling,recycling,0.9780,0.0017,0.0203
+R113,Paper,recycling,recycling,0.5602,0.0001,0.4397
+R121,Metal,recycling,recycling,0.9884,0.0004,0.0112
+R126,Metal,recycling,recycling,0.9104,0.0004,0.0892
+R172,Metal,recycling,landfill,0.1382,0.1637,0.6980
+R196,Plastic,recycling,recycling,0.9663,0.0006,0.0331
+R213,Plastic,landfill,recycling,0.9720,0.0046,0.0235
+R223,Plastic,landfill,landfill,0.3193,0.0445,0.6362
+R236,Plastic,recycling,recycling,0.9331,0.0077,0.0592
+R239,Plastic,recycling,recycling,0.8901,0.0039,0.1060
+R247,Plastic,recycling,recycling,0.7458,0.0644,0.1898
+R268,Plastic,landfill,recycling,0.8898,0.0000,0.1101
+R273,Glass,landfill,recycling,0.7217,0.0197,0.2586
+R286,Glass,landfill,landfill,0.0439,0.0012,0.9549
+R288,Glass,landfill,landfill,0.0710,0.0005,0.9284
+R291,Glass,landfill,recycling,0.9049,0.0006,0.0944
+R306,Glass,landfill,landfill,0.0292,0.0001,0.9707
+R320,Glass,landfill,landfill,0.0689,0.0016,0.9295
+R324,Glass,landfill,landfill,0.3100,0.0036,0.6865
+R328,Glass,landfill,recycling,0.7942,0.0009,0.2049
+R331,Glass,landfill,landfill,0.0765,0.0100,0.9134
+R337,Glass,landfill,landfill,0.3715,0.0034,0.6251
+R349,Miscellaneous Trash,landfill,compost,0.1977,0.5244,0.2779
+R354,Miscellaneous Trash,landfill,landfill,0.1853,0.0139,0.8007
+R355,Miscellaneous Trash,landfill,landfill,0.0465,0.0639,0.8896
+R362,Miscellaneous Trash,landfill,landfill,0.0431,0.0002,0.9567
+R366,Miscellaneous Trash,landfill,landfill,0.3218,0.0125,0.6658
+R376,Miscellaneous Trash,landfill,landfill,0.0986,0.0008,0.9006
+R386,Miscellaneous Trash,landfill,landfill,0.0145,0.0003,0.9852
+R391,Miscellaneous Trash,landfill,landfill,0.0048,0.0154,0.9798
+R407,Miscellaneous Trash,landfill,landfill,0.0155,0.4808,0.5037
+R408,Miscellaneous Trash,landfill,landfill,0.0148,0.0070,0.9782
+R418,Miscellaneous Trash,landfill,landfill,0.0205,0.0016,0.9779
+R426,Textile Trash,landfill,landfill,0.0527,0.0007,0.9467
+R435,Textile Trash,landfill,landfill,0.0746,0.0045,0.9209
+R436,Textile Trash,landfill,landfill,0.2203,0.0510,0.7287
+R450,Textile Trash,landfill,landfill,0.1092,0.0280,0.8628
+R451,Textile Trash,landfill,landfill,0.0198,0.0003,0.9799
+R460,Textile Trash,landfill,landfill,0.0365,0.0004,0.9631
+R468,Textile Trash,landfill,landfill,0.0180,0.0004,0.9816
+R469,Textile Trash,landfill,landfill,0.0548,0.0003,0.9450
+R476,Textile Trash,landfill,landfill,0.0074,0.0077,0.9849
+R484,Textile Trash,landfill,landfill,0.4209,0.0343,0.5448
+R495,Food Organics,compost,compost,0.0042,0.9759,0.0199
+R499,Food Organics,compost,compost,0.0138,0.9733,0.0129
+R524,Food Organics,compost,compost,0.0303,0.8918,0.0778
+R525,Food Organics,compost,compost,0.0390,0.8248,0.1362
+R526,Food Organics,compost,compost,0.0140,0.8252,0.1608
+R540,Food Organics,compost,compost,0.0011,0.9791,0.0197
+R554,Food Organics,compost,compost,0.0001,0.9981,0.0018
+R559,Food Organics,compost,compost,0.0014,0.8626,0.1360
+R561,Food Organics,compost,compost,0.0003,0.9974,0.0022
+R562,Food Organics,compost,compost,0.0005,0.9935,0.0059
+R571,Food Organics,compost,compost,0.0026,0.9927,0.0046
+R583,Food Organics,compost,compost,0.0009,0.9930,0.0061
+R601,Food Organics,compost,compost,0.0077,0.9785,0.0138
+R602,Food Organics,compost,landfill,0.1007,0.0810,0.8182
+R605,Food Organics,compost,compost,0.0057,0.9817,0.0126
+R609,Food Organics,compost,compost,0.0828,0.6913,0.2260
+R614,Vegetation,compost,compost,0.0478,0.9180,0.0341
+R615,Vegetation,compost,compost,0.0018,0.9965,0.0017
+R621,Vegetation,compost,compost,0.0032,0.9742,0.0227
+R642,Vegetation,compost,compost,0.0250,0.8964,0.0786
+R645,Vegetation,compost,compost,0.0026,0.9954,0.0019
+R651,Vegetation,compost,compost,0.0020,0.9959,0.0021
+R652,Vegetation,compost,compost,0.0030,0.9280,0.0690
+R656,Vegetation,compost,compost,0.0067,0.9674,0.0259
+R663,Vegetation,compost,compost,0.0059,0.9902,0.0039
+R686,Vegetation,compost,compost,0.0011,0.9967,0.0022
+R687,Vegetation,compost,compost,0.0024,0.5884,0.4092
+R688,Vegetation,compost,compost,0.0022,0.9956,0.0022
+R697,Vegetation,compost,compost,0.0004,0.9957,0.0039
+R712,Vegetation,compost,compost,0.0244,0.5473,0.4283
+R718,Vegetation,compost,compost,0.0018,0.7330,0.2652
+R719,Vegetation,compost,compost,0.0000,0.9997,0.0002
+R720,Vegetation,compost,compost,0.0025,0.9509,0.0467
+R724,Vegetation,compost,compost,0.0067,0.9827,0.0106

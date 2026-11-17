@@ -1,0 +1,53 @@
+[
+  {
+    "model": "linear",
+    "lr_head": 0.001,
+    "best_epoch": 8,
+    "val_macro_f1": 0.8874303232998885,
+    "val_acc": 0.8888888888888888,
+    "train_time_s": 15.248944199993275
+  },
+  {
+    "model": "linear",
+    "lr_head": 0.003,
+    "best_epoch": 6,
+    "val_macro_f1": 0.8980243612596555,
+    "val_acc": 0.898989898989899,
+    "train_time_s": 15.116253000000142
+  },
+  {
+    "model": "linear",
+    "lr_head": 0.01,
+    "best_epoch": 5,
+    "val_macro_f1": 0.8990179819854974,
+    "val_acc": 0.898989898989899,
+    "train_time_s": 15.293260899998131
+  },
+  {
+    "model": "lastblock",
+    "lr_head": 0.001,
+    "lr_block": 5e-05,
+    "best_epoch": 9,
+    "val_macro_f1": 0.888628751666504,
+    "val_acc": 0.8888888888888888,
+    "train_time_s": 15.475085600002785
+  },
+  {
+    "model": "lastblock",
+    "lr_head": 0.001,
+    "lr_block": 0.0001,
+    "best_epoch": 7,
+    "val_macro_f1": 0.888628751666504,
+    "val_acc": 0.8888888888888888,
+    "train_time_s": 15.330309900004067
+  },
+  {
+    "model": "lastblock",
+    "lr_head": 0.001,
+    "lr_block": 0.0003,
+    "best_epoch": 7,
+    "val_macro_f1": 0.8886815920398009,
+    "val_acc": 0.8888888888888888,
+    "train_time_s": 15.085985400000936
+  }
+]

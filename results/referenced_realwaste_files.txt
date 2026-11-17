@@ -1,0 +1,905 @@
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_103.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_104.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_115.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_117.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_121.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_122.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_124.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_125.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_148.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_168.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_170.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_188.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_195.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_197.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_200.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_203.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_206.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_208.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_209.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_212.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_217.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_224.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_225.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_228.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_231.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_244.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_245.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_254.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_266.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_269.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_285.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_293.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_294.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_3.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_309.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_313.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_334.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_34.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_348.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_354.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_362.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_381.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_384.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_390.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_396.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_397.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_399.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_410.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_415.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_416.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_429.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_432.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_439.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_44.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_443.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_444.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_6.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_67.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_72.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_73.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_74.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_83.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_90.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_92.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Cardboard/Cardboard_94.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_101.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_102.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_107.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_108.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_109.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_11.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_112.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_113.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_114.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_116.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_117.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_118.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_119.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_120.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_121.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_122.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_125.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_128.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_129.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_132.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_140.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_146.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_148.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_15.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_152.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_153.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_154.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_158.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_159.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_160.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_169.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_17.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_172.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_177.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_187.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_191.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_192.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_194.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_199.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_203.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_205.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_212.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_217.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_218.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_22.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_222.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_234.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_236.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_237.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_239.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_243.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_246.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_247.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_249.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_25.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_250.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_251.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_258.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_26.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_267.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_271.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_276.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_277.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_28.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_280.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_281.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_283.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_286.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_293.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_294.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_296.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_298.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_30.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_302.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_307.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_312.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_320.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_323.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_329.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_33.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_331.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_333.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_337.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_340.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_342.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_344.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_348.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_349.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_352.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_353.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_360.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_363.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_369.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_371.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_375.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_379.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_380.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_384.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_385.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_389.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_390.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_398.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_40.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_404.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_408.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_410.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_5.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_53.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_55.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_56.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_58.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_66.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_67.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_68.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_80.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_81.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_83.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_85.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_92.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Food Organics/Food Organics_99.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_10.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_100.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_120.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_121.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_123.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_134.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_135.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_137.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_138.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_139.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_14.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_152.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_160.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_163.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_168.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_179.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_181.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_190.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_199.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_205.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_207.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_212.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_218.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_219.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_222.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_223.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_230.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_232.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_233.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_26.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_261.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_267.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_269.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_27.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_272.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_274.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_286.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_294.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_295.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_3.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_305.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_310.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_311.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_313.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_316.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_317.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_326.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_329.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_330.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_334.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_336.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_342.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_365.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_367.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_371.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_38.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_383.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_385.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_387.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_388.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_397.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_404.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_407.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_411.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_415.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_44.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_51.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_63.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_68.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_74.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_77.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_78.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_79.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_80.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_81.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_9.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_90.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_92.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Glass/Glass_99.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_107.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_108.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_12.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_124.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_133.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_134.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_157.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_160.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_163.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_171.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_176.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_179.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_205.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_207.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_230.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_237.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_26.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_263.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_275.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_311.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_313.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_325.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_340.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_344.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_346.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_347.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_350.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_351.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_362.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_363.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_372.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_389.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_42.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_431.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_439.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_452.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_471.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_491.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_504.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_540.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_557.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_561.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_565.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_568.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_586.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_616.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_626.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_631.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_641.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_649.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_651.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_675.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_68.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_680.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_7.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_707.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_720.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_735.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_745.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_746.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_748.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_754.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_756.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Metal/Metal_78.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_100.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_101.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_110.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_12.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_122.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_127.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_130.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_131.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_132.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_133.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_138.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_149.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_153.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_159.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_165.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_168.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_169.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_176.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_179.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_180.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_189.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_192.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_194.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_195.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_196.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_199.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_201.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_21.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_216.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_219.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_222.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_225.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_234.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_235.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_25.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_251.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_253.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_268.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_272.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_28.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_286.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_289.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_299.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_300.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_319.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_321.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_323.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_326.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_34.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_340.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_346.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_350.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_351.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_357.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_373.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_378.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_379.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_387.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_39.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_392.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_397.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_40.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_402.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_405.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_416.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_433.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_435.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_452.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_461.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_465.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_474.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_483.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_484.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_489.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_49.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_491.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_54.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_55.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_56.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_58.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_63.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_7.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_87.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_89.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_90.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_101.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_103.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_112.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_114.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_116.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_123.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_132.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_141.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_143.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_146.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_147.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_17.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_204.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_209.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_210.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_225.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_227.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_230.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_232.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_234.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_235.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_243.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_247.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_250.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_286.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_287.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_291.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_295.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_299.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_301.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_323.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_324.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_329.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_335.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_338.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_353.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_366.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_368.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_397.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_398.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_4.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_401.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_41.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_410.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_419.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_440.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_442.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_447.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_452.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_457.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_462.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_464.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_468.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_470.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_473.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_476.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_493.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_498.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_52.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_63.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_72.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_79.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_81.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_86.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Paper/Paper_88.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_102.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_105.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_106.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_108.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_11.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_110.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_115.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_116.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_121.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_125.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_126.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_129.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_13.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_145.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_15.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_152.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_157.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_162.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_168.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_173.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_174.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_177.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_178.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_179.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_19.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_191.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_203.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_208.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_216.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_217.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_223.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_225.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_227.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_228.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_23.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_231.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_238.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_243.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_248.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_25.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_250.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_255.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_257.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_260.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_262.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_263.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_264.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_265.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_266.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_273.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_276.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_277.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_279.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_280.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_283.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_284.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_285.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_286.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_291.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_293.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_299.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_303.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_310.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_312.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_314.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_317.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_32.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_325.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_327.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_328.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_339.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_340.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_355.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_361.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_369.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_370.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_373.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_375.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_380.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_382.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_383.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_387.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_388.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_389.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_398.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_40.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_400.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_407.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_409.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_412.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_414.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_415.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_417.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_433.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_438.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_44.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_441.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_444.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_451.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_454.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_458.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_460.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_461.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_462.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_465.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_481.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_485.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_486.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_487.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_492.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_494.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_503.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_508.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_510.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_526.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_528.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_529.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_535.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_54.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_543.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_544.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_545.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_55.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_550.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_554.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_556.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_562.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_565.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_574.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_582.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_584.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_585.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_589.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_594.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_596.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_602.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_604.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_605.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_609.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_61.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_611.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_615.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_616.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_618.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_626.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_628.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_629.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_63.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_630.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_631.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_636.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_637.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_643.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_649.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_650.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_653.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_654.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_657.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_661.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_663.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_667.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_677.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_679.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_682.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_685.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_689.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_690.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_693.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_694.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_696.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_699.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_7.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_703.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_709.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_715.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_72.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_721.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_727.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_731.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_733.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_742.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_745.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_75.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_753.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_754.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_755.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_757.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_758.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_759.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_760.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_762.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_769.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_773.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_778.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_779.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_782.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_784.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_785.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_789.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_796.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_805.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_808.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_81.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_811.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_815.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_820.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_822.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_827.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_831.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_835.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_836.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_840.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_841.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_848.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_85.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_855.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_860.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_864.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_865.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_866.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_869.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_870.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_878.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_882.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_885.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_896.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_908.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_914.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_915.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_919.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_92.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_920.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_921.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Plastic/Plastic_94.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_102.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_107.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_116.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_120.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_121.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_129.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_13.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_132.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_134.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_139.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_145.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_146.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_149.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_15.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_16.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_162.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_174.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_175.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_176.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_178.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_185.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_189.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_191.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_201.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_212.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_213.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_22.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_222.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_223.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_225.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_227.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_240.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_242.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_243.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_244.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_252.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_256.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_260.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_265.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_269.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_281.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_29.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_292.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_296.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_297.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_299.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_303.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_305.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_311.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_315.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_318.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_34.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_36.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_41.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_44.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_46.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_47.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_49.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_52.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_55.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_6.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_61.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_67.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_71.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_77.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_78.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_8.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_80.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_82.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_90.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_95.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_96.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_97.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Textile Trash/Textile Trash_99.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_10.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_102.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_118.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_119.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_121.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_133.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_134.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_135.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_138.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_14.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_143.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_151.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_153.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_158.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_159.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_161.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_163.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_165.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_169.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_178.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_18.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_185.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_193.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_194.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_195.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_2.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_200.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_203.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_21.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_211.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_213.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_221.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_223.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_229.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_230.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_235.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_237.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_24.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_240.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_243.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_247.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_252.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_259.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_261.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_263.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_266.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_267.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_268.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_275.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_277.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_278.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_28.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_287.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_296.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_300.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_302.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_304.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_305.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_308.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_311.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_314.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_323.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_326.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_329.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_331.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_332.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_335.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_338.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_341.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_342.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_346.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_349.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_350.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_358.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_363.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_367.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_368.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_37.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_372.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_380.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_382.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_384.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_39.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_390.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_392.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_395.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_398.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_399.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_403.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_411.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_412.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_413.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_415.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_416.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_417.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_418.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_423.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_424.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_426.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_45.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_47.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_50.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_51.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_56.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_57.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_68.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_69.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_78.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_79.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_80.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_82.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_84.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_87.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_90.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_91.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_92.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_94.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_96.jpg
+data/raw/realwaste/extracted/realwaste-main/RealWaste/Vegetation/Vegetation_97.jpg

@@ -1,0 +1,45 @@
+cid,action,final_bin,note
+E000,relabel,landfill,crumpled plastic film
+E003,relabel,landfill,wad of plastic film and wrappers
+E005,relabel,landfill,foam clamshell
+E006,relabel,landfill,cling film
+E007,relabel,landfill,foam piece
+E008,exclude,,small cap
+E009,exclude,,black tray with wrapper
+E011,exclude,,tray with attached film; unclear
+E018,relabel,landfill,plastic film bag
+E019,relabel,landfill,plastic film
+E027,exclude,,small cap
+E032,exclude,,black tray wrapped in film
+E044,exclude,,ointment tube
+E045,relabel,landfill,snack wrapper (film)
+E048,exclude,,small cap
+E049,exclude,,small cap
+E054,exclude,,small cap
+E070,exclude,,used aluminium foil tray
+E073,exclude,,metal spoon; not a bin item
+E076,exclude,,black tray with mixed contents
+E083,exclude,,dried plant in trash class; unclear
+E084,exclude,,unclear object
+E085,exclude,,dirty cloth or paper; unclear
+E103,exclude,,container with film lid; unclear
+E107,exclude,,small unclear item
+E110,relabel,landfill,foam block
+E120,relabel,landfill,crumpled plastic bag
+E123,exclude,,small cap
+E128,exclude,,toothpaste tube
+E129,relabel,landfill,plastic film bag
+E133,relabel,landfill,foam piece
+E135,relabel,landfill,plastic film
+E140,exclude,,small cap
+E141,relabel,landfill,crumpled plastic film
+E151,relabel,landfill,biscuit wrapper (film)
+E152,exclude,,broken black tray with film
+E153,exclude,,black plastic fragment
+E157,relabel,landfill,snack wrappers (film)
+E158,exclude,,small cap
+E162,relabel,landfill,film wrapper
+E170,relabel,landfill,plastic bag
+E172,relabel,landfill,vacuum-pack pouch (film)
+E174,exclude,,toothpaste tube
+E178,exclude,,small unclear item

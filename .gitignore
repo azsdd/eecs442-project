@@ -1,0 +1,10 @@
+# virtual environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# raw downloads too large for GitHub (see README "Data" for the download links)
+data/raw/realwaste/realwaste.zip
+data/raw/realwaste/extracted/
+data/raw/ood/hf/
+# the 905 RealWaste images used by the benchmark are force-added (see data/DATA_NOTICE.md)

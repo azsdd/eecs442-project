@@ -1,0 +1,159 @@
+{
+  "model": "ViT-B-16/openai",
+  "sets": {
+    "test": {
+      "items": {
+        "accuracy": 0.79,
+        "macro_f1": 0.7944321696862572,
+        "per_class_recall": {
+          "recycling": 0.8387096774193549,
+          "compost": 0.7714285714285715,
+          "landfill": 0.7647058823529411
+        },
+        "per_class_precision": {
+          "recycling": 0.7647058823529411,
+          "compost": 1.0,
+          "landfill": 0.6666666666666666
+        },
+        "per_class_f1": {
+          "recycling": 0.8,
+          "compost": 0.8709677419354839,
+          "landfill": 0.7123287671232876
+        },
+        "confusion_matrix": [
+          [
+            26,
+            0,
+            5
+          ],
+          [
+            0,
+            27,
+            8
+          ],
+          [
+            8,
+            0,
+            26
+          ]
+        ],
+        "n": 100,
+        "fine_accuracy": 0.7
+      },
+      "bins": {
+        "accuracy": 0.62,
+        "macro_f1": 0.5175278622087133,
+        "per_class_recall": {
+          "recycling": 0.967741935483871,
+          "compost": 0.9142857142857143,
+          "landfill": 0.0
+        },
+        "per_class_precision": {
+          "recycling": 0.47619047619047616,
+          "compost": 0.9142857142857143,
+          "landfill": 0.0
+        },
+        "per_class_f1": {
+          "recycling": 0.6382978723404256,
+          "compost": 0.9142857142857143,
+          "landfill": 0.0
+        },
+        "confusion_matrix": [
+          [
+            30,
+            0,
+            1
+          ],
+          [
+            2,
+            32,
+            1
+          ],
+          [
+            31,
+            3,
+            0
+          ]
+        ],
+        "n": 100
+      }
+    },
+    "ood_test": {
+      "items": {
+        "accuracy": 0.8591549295774648,
+        "macro_f1": 0.8621370384969124,
+        "per_class_recall": {
+          "recycling": 0.8536585365853658,
+          "compost": 0.8604651162790697,
+          "landfill": 0.8620689655172413
+        },
+        "per_class_precision": {
+          "recycling": 0.7777777777777778,
+          "compost": 1.0,
+          "landfill": 0.8333333333333334
+        },
+        "per_class_f1": {
+          "recycling": 0.813953488372093,
+          "compost": 0.925,
+          "landfill": 0.847457627118644
+        },
+        "confusion_matrix": [
+          [
+            35,
+            0,
+            6
+          ],
+          [
+            2,
+            37,
+            4
+          ],
+          [
+            8,
+            0,
+            50
+          ]
+        ],
+        "n": 142,
+        "fine_accuracy": 0.795774647887324
+      },
+      "bins": {
+        "accuracy": 0.704225352112676,
+        "macro_f1": 0.708531007828238,
+        "per_class_recall": {
+          "recycling": 0.9512195121951219,
+          "compost": 0.9302325581395349,
+          "landfill": 0.3620689655172414
+        },
+        "per_class_precision": {
+          "recycling": 0.5064935064935064,
+          "compost": 0.975609756097561,
+          "landfill": 0.875
+        },
+        "per_class_f1": {
+          "recycling": 0.6610169491525424,
+          "compost": 0.9523809523809523,
+          "landfill": 0.5121951219512195
+        },
+        "confusion_matrix": [
+          [
+            39,
+            0,
+            2
+          ],
+          [
+            2,
+            40,
+            1
+          ],
+          [
+            36,
+            1,
+            21
+          ]
+        ],
+        "n": 142
+      }
+    }
+  }
+}

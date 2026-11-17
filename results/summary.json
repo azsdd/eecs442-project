@@ -1,0 +1,280 @@
+{
+  "best_config": {
+    "model": "lastblock",
+    "aug": "brightrot",
+    "frac": 1.0,
+    "selection": "post-hoc: best mean macro-F1 on both test sets"
+  },
+  "val_selected_config": {
+    "model": "linear",
+    "aug": "none",
+    "frac": 1.0,
+    "val_f1_mean": 0.8953017655260119,
+    "test_f1_mean": 0.7577469400586305,
+    "ood_f1_mean": 0.7252914786280046
+  },
+  "best_row": {
+    "model": "lastblock",
+    "aug": "brightrot",
+    "frac": 1.0,
+    "val_f1_mean": 0.8788210380983256,
+    "val_f1_std": 0.0007283265382157216,
+    "test_acc_mean": 0.8033333333333333,
+    "test_acc_std": 0.011547005383792535,
+    "test_f1_mean": 0.8007334980165828,
+    "test_f1_std": 0.011148748168384605,
+    "ood_acc_mean": 0.767605633802817,
+    "ood_acc_std": 0.028169014084507074,
+    "ood_f1_mean": 0.7754171626743762,
+    "ood_f1_std": 0.027991732112584603,
+    "train_time_mean": 72.55565386666665,
+    "train_time_std": 0.506353691973238,
+    "best_epoch_mean": 14.666666666666666,
+    "best_epoch_std": 8.504900548115382,
+    "gpu_ms_mean": 0.1574597916790784,
+    "gpu_ms_std": 0.001968639988202323,
+    "cpu_ms_mean": 15.855206666553082,
+    "cpu_ms_std": 1.1752799536885787,
+    "test_rec_recycling_mean": 0.7849462365591396,
+    "test_rec_recycling_std": 0.03724840446384679,
+    "test_rec_compost_mean": 0.9238095238095237,
+    "test_rec_compost_std": 0.016495721976846456,
+    "test_rec_landfill_mean": 0.6960784313725491,
+    "test_rec_landfill_std": 0.016980890270283114,
+    "ood_rec_recycling_mean": 0.7804878048780489,
+    "ood_rec_recycling_std": 0.042245141648021435,
+    "ood_rec_compost_mean": 0.8604651162790699,
+    "ood_rec_compost_std": 0.046511627906976716,
+    "ood_rec_landfill_mean": 0.6896551724137931,
+    "ood_rec_landfill_std": 0.051724137931034475,
+    "n_seeds": 3.0,
+    "n_train": 461.0,
+    "n_params": 445827.0,
+    "label": "last-block FT, aug, 100%"
+  },
+  "n_runs": 24,
+  "effects": [
+    {
+      "factor": "last-block FT vs linear probe",
+      "n_pairs": 12,
+      "d_test_f1_mean": 0.010437044087038327,
+      "d_test_f1_std": 0.01733528306692898,
+      "d_ood_f1_mean": 0.03026177302991449,
+      "d_ood_f1_std": 0.04577033395929582,
+      "d_test_acc_mean": 0.010833333333333342,
+      "d_ood_acc_mean": 0.031690140845070415,
+      "frac_pairs_test_improved": 0.6666666666666666,
+      "frac_pairs_ood_improved": 0.6666666666666666
+    },
+    {
+      "factor": "augmentation vs none",
+      "n_pairs": 12,
+      "d_test_f1_mean": 0.023846730580613058,
+      "d_test_f1_std": 0.015309404762486326,
+      "d_ood_f1_mean": 0.024590706302387577,
+      "d_ood_f1_std": 0.04762496909936079,
+      "d_test_acc_mean": 0.02250000000000002,
+      "d_ood_acc_mean": 0.02230046948356808,
+      "frac_pairs_test_improved": 0.9166666666666666,
+      "frac_pairs_ood_improved": 0.75
+    },
+    {
+      "factor": "100% vs 25% training data",
+      "n_pairs": 12,
+      "d_test_f1_mean": 0.01986267272652183,
+      "d_test_f1_std": 0.02278693121954281,
+      "d_ood_f1_mean": 0.051176065364271384,
+      "d_ood_f1_std": 0.059281537465495436,
+      "d_test_acc_mean": 0.01583333333333335,
+      "d_ood_acc_mean": 0.04694835680751175,
+      "frac_pairs_test_improved": 0.9166666666666666,
+      "frac_pairs_ood_improved": 0.75
+    }
+  ],
+  "per_material": [
+    {
+      "orig_class": "Cardboard",
+      "true": "recycling",
+      "mean": 0.8888888888888888,
+      "size": 27,
+      "set": "test",
+      "n_images": 9
+    },
+    {
+      "orig_class": "Food Organics",
+      "true": "compost",
+      "mean": 0.9074074074074074,
+      "size": 54,
+      "set": "test",
+      "n_images": 18
+    },
+    {
+      "orig_class": "Glass",
+      "true": "landfill",
+      "mean": 0.8518518518518519,
+      "size": 27,
+      "set": "test",
+      "n_images": 9
+    },
+    {
+      "orig_class": "Metal",
+      "true": "recycling",
+      "mean": 1.0,
+      "size": 3,
+      "set": "test",
+      "n_images": 1
+    },
+    {
+      "orig_class": "Miscellaneous Trash",
+      "true": "landfill",
+      "mean": 0.6333333333333333,
+      "size": 30,
+      "set": "test",
+      "n_images": 10
+    },
+    {
+      "orig_class": "Paper",
+      "true": "recycling",
+      "mean": 0.7407407407407407,
+      "size": 27,
+      "set": "test",
+      "n_images": 9
+    },
+    {
+      "orig_class": "Plastic",
+      "true": "landfill",
+      "mean": 0.3888888888888889,
+      "size": 18,
+      "set": "test",
+      "n_images": 6
+    },
+    {
+      "orig_class": "Plastic",
+      "true": "recycling",
+      "mean": 0.7222222222222222,
+      "size": 36,
+      "set": "test",
+      "n_images": 12
+    },
+    {
+      "orig_class": "Textile Trash",
+      "true": "landfill",
+      "mean": 0.8148148148148148,
+      "size": 27,
+      "set": "test",
+      "n_images": 9
+    },
+    {
+      "orig_class": "Vegetation",
+      "true": "compost",
+      "mean": 0.9411764705882353,
+      "size": 51,
+      "set": "test",
+      "n_images": 17
+    },
+    {
+      "orig_class": "biological",
+      "true": "compost",
+      "mean": 0.8571428571428571,
+      "size": 126,
+      "set": "ood",
+      "n_images": 42
+    },
+    {
+      "orig_class": "brown-glass",
+      "true": "landfill",
+      "mean": 0.6111111111111112,
+      "size": 18,
+      "set": "ood",
+      "n_images": 6
+    },
+    {
+      "orig_class": "cardboard",
+      "true": "recycling",
+      "mean": 0.8181818181818182,
+      "size": 33,
+      "set": "ood",
+      "n_images": 11
+    },
+    {
+      "orig_class": "clothes",
+      "true": "landfill",
+      "mean": 0.7777777777777778,
+      "size": 36,
+      "set": "ood",
+      "n_images": 12
+    },
+    {
+      "orig_class": "green-glass",
+      "true": "landfill",
+      "mean": 0.6666666666666666,
+      "size": 21,
+      "set": "ood",
+      "n_images": 7
+    },
+    {
+      "orig_class": "metal",
+      "true": "recycling",
+      "mean": 0.875,
+      "size": 24,
+      "set": "ood",
+      "n_images": 8
+    },
+    {
+      "orig_class": "paper",
+      "true": "recycling",
+      "mean": 0.9230769230769231,
+      "size": 39,
+      "set": "ood",
+      "n_images": 13
+    },
+    {
+      "orig_class": "plastic",
+      "true": "landfill",
+      "mean": 0.0,
+      "size": 9,
+      "set": "ood",
+      "n_images": 3
+    },
+    {
+      "orig_class": "plastic",
+      "true": "recycling",
+      "mean": 0.4444444444444444,
+      "size": 27,
+      "set": "ood",
+      "n_images": 9
+    },
+    {
+      "orig_class": "shoes",
+      "true": "landfill",
+      "mean": 0.8333333333333334,
+      "size": 24,
+      "set": "ood",
+      "n_images": 8
+    },
+    {
+      "orig_class": "trash",
+      "true": "compost",
+      "mean": 1.0,
+      "size": 3,
+      "set": "ood",
+      "n_images": 1
+    },
+    {
+      "orig_class": "trash",
+      "true": "landfill",
+      "mean": 0.6666666666666666,
+      "size": 45,
+      "set": "ood",
+      "n_images": 15
+    },
+    {
+      "orig_class": "white-glass",
+      "true": "landfill",
+      "mean": 0.8095238095238095,
+      "size": 21,
+      "set": "ood",
+      "n_images": 7
+    }
+  ]
+}

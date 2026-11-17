@@ -1,0 +1,24 @@
+orig_class,true,mean,size,set,n_images
+Cardboard,recycling,0.8888888888888888,27,test,9
+Food Organics,compost,0.9074074074074074,54,test,18
+Glass,landfill,0.8518518518518519,27,test,9
+Metal,recycling,1.0,3,test,1
+Miscellaneous Trash,landfill,0.6333333333333333,30,test,10
+Paper,recycling,0.7407407407407407,27,test,9
+Plastic,landfill,0.3888888888888889,18,test,6
+Plastic,recycling,0.7222222222222222,36,test,12
+Textile Trash,landfill,0.8148148148148148,27,test,9
+Vegetation,compost,0.9411764705882353,51,test,17
+biological,compost,0.8571428571428571,126,ood,42
+brown-glass,landfill,0.6111111111111112,18,ood,6
+cardboard,recycling,0.8181818181818182,33,ood,11
+clothes,landfill,0.7777777777777778,36,ood,12
+green-glass,landfill,0.6666666666666666,21,ood,7
+metal,recycling,0.875,24,ood,8
+paper,recycling,0.9230769230769231,39,ood,13
+plastic,landfill,0.0,9,ood,3
+plastic,recycling,0.4444444444444444,27,ood,9
+shoes,landfill,0.8333333333333334,24,ood,8
+trash,compost,1.0,3,ood,1
+trash,landfill,0.6666666666666666,45,ood,15
+white-glass,landfill,0.8095238095238095,21,ood,7
